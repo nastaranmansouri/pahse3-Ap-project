@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1639661225 source:c:\users\veysipc\desktop\nasi\ap\phase3-ap-project\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Tailor.h"
+	"Color.h"
+	"Design.h"
+	"Manto.h"
+
+1639636114 c:\users\veysipc\desktop\nasi\ap\phase3-ap-project\include\tailor.h
+	<iostream>
+	<string>
+
+1639636213 c:\users\veysipc\desktop\nasi\ap\phase3-ap-project\include\color.h
+	<iostream>
+	<string>
+
+1639661825 c:\users\veysipc\desktop\nasi\ap\phase3-ap-project\include\design.h
+	<iostream>
+	<string>
+	<vector>
+
+1639636197 source:c:\users\veysipc\desktop\nasi\ap\phase3-ap-project\src\color.cpp
+	<iostream>
+	<string>
+	"Color.h"
+
+1639661069 source:c:\users\veysipc\desktop\nasi\ap\phase3-ap-project\src\design.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	"Design.h"
+	"Manto.h"
+	"Pants.h"
+
+1639646065 source:c:\users\veysipc\desktop\nasi\ap\phase3-ap-project\src\manto.cpp
+	<iostream>
+	<string>
+	"Design.h"
+	"Manto.h"
+
+1639638390 c:\users\veysipc\desktop\nasi\ap\phase3-ap-project\include\manto.h
+	<iostream>
+	"Design.h"
+
+1639636100 source:c:\users\veysipc\desktop\nasi\ap\phase3-ap-project\src\tailor.cpp
+	"Tailor.h"
+	<iostream>
+	<string>
+
+1639644758 source:c:\users\veysipc\desktop\nasi\ap\phase3-ap-project\src\pants.cpp
+	<iostream>
+	<string>
+	"Pants.h"
+
+1639644753 c:\users\veysipc\desktop\nasi\ap\phase3-ap-project\include\pants.h
+	<iostream>
+	<string>
+
